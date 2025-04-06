@@ -2,3 +2,4 @@ app = "cgm-remote-monitor-9xbcaa"
 
 [env]
 NODE_ENV = "production"
+PORT = "1337"
